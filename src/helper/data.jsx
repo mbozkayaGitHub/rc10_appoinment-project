@@ -43,7 +43,7 @@ export const doctorData = [
   },
   {
     id: 4,
-    name: "Dr. Jessica White",
+    name: "Dr. Carla Brown",
     dep: "Gastroentogoly",
     img: "./img/dr4.jpg",
   },
